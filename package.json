@@ -6,6 +6,8 @@
     "version": "3.3.9"
   },
   "dependencies": {
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^21.3.0",
     "hexo": "^3.2.0",
     "hexo-deployer-git": "^0.3.1",
     "hexo-deployer-sftp": "^0.1.0",
